@@ -1,6 +1,7 @@
 # ChatGPTClone
 I created an AI chatbot similar to ChatGPT using Langchain and the OpenAI API. The chatbot also features a summarizer, which can condense the entire conversation into a concise summary, capturing the main points of the interaction.
 
+# How To Use:
 1. Clone this repository to your local system.
 2. Open the command line and navigate to the cloned repository directory.
 3. Run the command "pip install -r requirements.txt" to install all the required dependencies.
