@@ -11,3 +11,5 @@ I created an AI chatbot similar to ChatGPT using Langchain and the OpenAI API. T
 7. The ChatGPTClone application will open, prompting you to enter your API key. Once you've entered the key, press enter.
 8. You can now start having conversations with the AI bot through the application.
 9. After having a conversation with the bot, you can also use the "summarise" button to generate a summary of the entire conversation.
+
+**See Image1 for initial UI, Image2 for the conversation, Image3 for the summarization.**
