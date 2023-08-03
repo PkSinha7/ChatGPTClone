@@ -1,6 +1,5 @@
-langchain==0.0.250
-Pillow==9.5.0
-Pillow==10.0.0
-python-dotenv==1.0.0
-streamlit==1.24.1
-streamlit_chat==0.1.1
+langchain
+Pillow
+python-dotenv
+streamlit
+streamlit_chat
